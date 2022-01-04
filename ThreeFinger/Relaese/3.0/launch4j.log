@@ -1,0 +1,29 @@
+
+
+Version:	3.12
+CmdLine:	D:\포맷\JAVA\ThreeFinger\Relaese\3.0\AngleViewer.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\포맷\JAVA\ThreeFinger\Relaese\3.0\.
+Java min ver:	1.006.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_231
+Check launcher:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe (OK)
+Match:		1.008.000_231
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_231
+Ignore:		1.008.000_231
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_231 (64-bit)
+Main class:	kr.re.keti.threefinger.FingerPointer
+Add classpath:	.
+Launcher:	C:\Program Files\Java\jre1.8.0_231\bin\javaw.exe
+Launcher args:	-classpath "D:\포맷\JAVA\ThreeFinger\Relaese\3.0\AngleViewer.exe;." kr.re.keti.threefinger.FingerPointer
+Args length:	104/32768 chars
+Exit code:	0
